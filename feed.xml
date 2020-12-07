@@ -1,12 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>markellul.com</title>
+    <title>Mark Ellul&#x27;s thoughts</title>
     <link href="https://mark-ellul.github.io/markellul.com/feed.xml" rel="self" />
     <link href="https://mark-ellul.github.io/markellul.com" />
-    <updated>1970-01-01T01:00:00+01:00</updated>
+    <updated>2020-12-07T16:46:28+01:00</updated>
     <author>
         <name>Mark Ellul</name>
     </author>
     <id>https://mark-ellul.github.io/markellul.com</id>
 
+    <entry>
+        <title>Publii Impresses</title>
+        <author>
+            <name>Mark Ellul</name>
+        </author>
+        <link href="https://mark-ellul.github.io/markellul.com/publii-impresses.html"/>
+        <id>https://mark-ellul.github.io/markellul.com/publii-impresses.html</id>
+
+        <updated>2020-12-07T16:46:28+01:00</updated>
+            <summary>
+                <![CDATA[
+                     Publii makes creating and deploying a static website, like a blog, a piece of cake. I am a software engineer and whenever&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p> </p>
+<p>Publii makes creating and deploying a static website, like a blog, a piece of cake. I am a software engineer and whenever I get caught up in creating a site for myself I get lost in frameworks and and themes, and Publii centralizes all those decisions while still giving me the flexibility to customize to an enormous degree! </p>
+<p>The pure simplicity to add a new post and deploy, has inspired me to actually start posting my thoughts.... </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Welcome to my Page</title>
+        <author>
+            <name>Mark Ellul</name>
+        </author>
+        <link href="https://mark-ellul.github.io/markellul.com/welcome-to-my-page.html"/>
+        <id>https://mark-ellul.github.io/markellul.com/welcome-to-my-page.html</id>
+
+        <updated>2020-12-07T16:39:24+01:00</updated>
+            <summary>
+                <![CDATA[
+                     Hi, Welcome to this web page, I am Mark Ellul. I have set up this page in part for testing out Github&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    Hi,
+  </p>
+
+  <p>
+    Welcome to this web page, I am Mark Ellul. I have set up this page in part for testing out <a href="https://github.com" target="_blank">Github</a> Pages and the <a href="https://getpublii.com/" target="_blank">Publii </a>Publishing tool
+  </p>
+            ]]>
+        </content>
+    </entry>
 </feed>
