@@ -3,7 +3,7 @@
     <title>Mark Ellul&#x27;s thoughts</title>
     <link href="https://markellul.com/feed.xml" rel="self" />
     <link href="https://markellul.com" />
-    <updated>2020-12-07T16:46:28+01:00</updated>
+    <updated>2020-12-09T19:52:39+01:00</updated>
     <author>
         <name>Mark Ellul</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://markellul.com/publii-impresses.html"/>
         <id>https://markellul.com/publii-impresses.html</id>
 
-        <updated>2020-12-07T16:46:28+01:00</updated>
+        <updated>2020-12-09T19:52:39+01:00</updated>
             <summary>
                 <![CDATA[
                      Publii makes creating and deploying a static website, like a blog, a piece of cake. I am a software engineer and whenever&hellip;
@@ -27,7 +27,7 @@
             <![CDATA[
                 <p> </p>
 <p>Publii makes creating and deploying a static website, like a blog, a piece of cake. I am a software engineer and whenever I get caught up in creating a site for myself I get lost in frameworks and and themes, and Publii centralizes all those decisions while still giving me the flexibility to customize to an enormous degree! </p>
-<p>The pure simplicity to add a new post and deploy, has inspired me to actually start posting my thoughts.... </p>
+<p>The pure simplicity to add a new post and deploy, has inspired me to actually start posting my thoughts...</p>
             ]]>
         </content>
     </entry>
