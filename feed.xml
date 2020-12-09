@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Mark Ellul&#x27;s thoughts</title>
-    <link href="https://mark-ellul.github.io/markellul.com/feed.xml" rel="self" />
-    <link href="https://mark-ellul.github.io/markellul.com" />
+    <link href="https://markellul.com/feed.xml" rel="self" />
+    <link href="https://markellul.com" />
     <updated>2020-12-07T16:46:28+01:00</updated>
     <author>
         <name>Mark Ellul</name>
     </author>
-    <id>https://mark-ellul.github.io/markellul.com</id>
+    <id>https://markellul.com</id>
 
     <entry>
         <title>Publii Impresses</title>
         <author>
             <name>Mark Ellul</name>
         </author>
-        <link href="https://mark-ellul.github.io/markellul.com/publii-impresses.html"/>
-        <id>https://mark-ellul.github.io/markellul.com/publii-impresses.html</id>
+        <link href="https://markellul.com/publii-impresses.html"/>
+        <id>https://markellul.com/publii-impresses.html</id>
 
         <updated>2020-12-07T16:46:28+01:00</updated>
             <summary>
@@ -36,8 +36,8 @@
         <author>
             <name>Mark Ellul</name>
         </author>
-        <link href="https://mark-ellul.github.io/markellul.com/welcome-to-my-page.html"/>
-        <id>https://mark-ellul.github.io/markellul.com/welcome-to-my-page.html</id>
+        <link href="https://markellul.com/welcome-to-my-page.html"/>
+        <id>https://markellul.com/welcome-to-my-page.html</id>
 
         <updated>2020-12-07T16:39:24+01:00</updated>
             <summary>
