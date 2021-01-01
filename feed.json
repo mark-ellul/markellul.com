@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://markellul.com/happy-new-year-2021.html",
+            "url": "https://markellul.com/happy-new-year-2021.html",
+            "title": "Happy New Year 2021",
+            "summary": "So a New year, new challenges on their way. Covid-19 is still with us, so I just want to hope that you all&hellip;",
+            "content_html": "<p>So a New year, new challenges on their way. Covid-19 is still with us, so I just want to hope that you all take the necessary precautions for your respective environments. Be Safe and Have Fun, As much as you can!</p>",
+            "author": {
+                "name": "Mark Ellul"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-01-01T18:25:02+01:00",
+            "date_modified": "2021-01-01T18:25:02+01:00"
+        },
+        {
             "id": "https://markellul.com/publii-impresses.html",
             "url": "https://markellul.com/publii-impresses.html",
             "title": "Publii Impresses",

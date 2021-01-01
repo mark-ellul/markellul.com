@@ -3,12 +3,32 @@
     <title>Mark Ellul&#x27;s thoughts</title>
     <link href="https://markellul.com/feed.xml" rel="self" />
     <link href="https://markellul.com" />
-    <updated>2020-12-09T19:52:39+01:00</updated>
+    <updated>2021-01-01T18:25:02+01:00</updated>
     <author>
         <name>Mark Ellul</name>
     </author>
     <id>https://markellul.com</id>
 
+    <entry>
+        <title>Happy New Year 2021</title>
+        <author>
+            <name>Mark Ellul</name>
+        </author>
+        <link href="https://markellul.com/happy-new-year-2021.html"/>
+        <id>https://markellul.com/happy-new-year-2021.html</id>
+
+        <updated>2021-01-01T18:25:02+01:00</updated>
+            <summary>
+                <![CDATA[
+                    So a New year, new challenges on their way. Covid-19 is still with us, so I just want to hope that you all&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>So a New year, new challenges on their way. Covid-19 is still with us, so I just want to hope that you all take the necessary precautions for your respective environments. Be Safe and Have Fun, As much as you can!</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Publii Impresses</title>
         <author>
