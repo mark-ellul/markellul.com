@@ -3,12 +3,33 @@
     <title>Mark Ellul&#x27;s thoughts</title>
     <link href="https://markellul.com/feed.xml" rel="self" />
     <link href="https://markellul.com" />
-    <updated>2021-01-11T11:30:29+01:00</updated>
+    <updated>2021-01-21T22:34:09+01:00</updated>
     <author>
         <name>Mark Ellul</name>
     </author>
     <id>https://markellul.com</id>
 
+    <entry>
+        <title>Nostalgia</title>
+        <author>
+            <name>Mark Ellul</name>
+        </author>
+        <link href="https://markellul.com/nostalgia.html"/>
+        <id>https://markellul.com/nostalgia.html</id>
+
+        <updated>2021-01-21T22:34:09+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Nostalgia, in these uncertain times can be trap, you might ponder on the good old days and feel worse about your current circumstances.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Nostalgia, in these uncertain times can be trap, you might ponder on the good old days and feel worse about your current circumstances. That said when used positively, You can be thankful for the experiences you have had, that you had the opportunity to live them.</p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>What you do Now will be a memory of your Future self</title>
         <author>

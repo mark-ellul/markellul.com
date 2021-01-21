@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://markellul.com/nostalgia.html",
+            "url": "https://markellul.com/nostalgia.html",
+            "title": "Nostalgia",
+            "summary": "Nostalgia, in these uncertain times can be trap, you might ponder on the good old days and feel worse about your current circumstances.",
+            "content_html": "<p>Nostalgia, in these uncertain times can be trap, you might ponder on the good old days and feel worse about your current circumstances. That said when used positively, You can be thankful for the experiences you have had, that you had the opportunity to live them.</p>\n<p> </p>",
+            "author": {
+                "name": "Mark Ellul"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-01-21T22:34:09+01:00",
+            "date_modified": "2021-01-21T22:34:09+01:00"
+        },
+        {
             "id": "https://markellul.com/what-you-do-now-will-be-a-memory-of-your-future-self.html",
             "url": "https://markellul.com/what-you-do-now-will-be-a-memory-of-your-future-self.html",
             "title": "What you do Now will be a memory of your Future self",
