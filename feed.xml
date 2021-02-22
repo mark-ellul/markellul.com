@@ -3,12 +3,37 @@
     <title>Mark Ellul&#x27;s thoughts</title>
     <link href="https://markellul.com/feed.xml" rel="self" />
     <link href="https://markellul.com" />
-    <updated>2021-01-21T22:34:09+01:00</updated>
+    <updated>2021-02-18T23:25:15+01:00</updated>
     <author>
         <name>Mark Ellul</name>
     </author>
     <id>https://markellul.com</id>
 
+    <entry>
+        <title>Dad Joke</title>
+        <author>
+            <name>Mark Ellul</name>
+        </author>
+        <link href="https://markellul.com/dad-joke.html"/>
+        <id>https://markellul.com/dad-joke.html</id>
+
+        <updated>2021-02-18T23:25:15+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Daughter walks past Dad and sees his toe sticking out of a sock.... Daughter: Dad you have a hole in your Sock Dad: I&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><em>Daughter walks past Dad and sees his toe sticking out of a sock....</em></p>
+<p><strong>Daughter: </strong>Dad you have a hole in your Sock</p>
+<p class="align-left"><strong>Dad: </strong>I know, the Pope bought them for me.</p>
+<p><strong>Daughter: </strong>Really??!!! (face a bit perplexed)</p>
+<p><strong>Dad: </strong>These are holy socks....</p>
+<p><em>Daughter looks away in disgust and appreciation of the pun!</em></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Nostalgia</title>
         <author>

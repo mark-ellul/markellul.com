@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://markellul.com/dad-joke.html",
+            "url": "https://markellul.com/dad-joke.html",
+            "title": "Dad Joke",
+            "summary": "Daughter walks past Dad and sees his toe sticking out of a sock.... Daughter: Dad you have a hole in your Sock Dad: I&hellip;",
+            "content_html": "<p><em>Daughter walks past Dad and sees his toe sticking out of a sock....</em></p>\n<p><strong>Daughter: </strong>Dad you have a hole in your Sock</p>\n<p class=\"align-left\"><strong>Dad: </strong>I know, the Pope bought them for me.</p>\n<p><strong>Daughter: </strong>Really??!!! (face a bit perplexed)</p>\n<p><strong>Dad: </strong>These are holy socks....</p>\n<p><em>Daughter looks away in disgust and appreciation of the pun!</em></p>",
+            "author": {
+                "name": "Mark Ellul"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-02-18T23:25:15+01:00",
+            "date_modified": "2021-02-18T23:25:15+01:00"
+        },
+        {
             "id": "https://markellul.com/nostalgia.html",
             "url": "https://markellul.com/nostalgia.html",
             "title": "Nostalgia",
